@@ -1,4 +1,4 @@
 GoogleClone
 ===========
 
-Thinkful Google Clone
+My Google Clone
